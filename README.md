@@ -18,7 +18,7 @@
 **Folder 16:** Revision 4 - Operators <br>
 **Folder 17:** Loops <br>
 **Folder 18:** Revision 5 - Loops & Control Statements <br>
-**Folder 18:** Special Problems - Star Pyramid <br>
+**Folder 19:** Special Problems - Star Pyramid, Palindrome, Strong Number,  <br>
 
 
 
