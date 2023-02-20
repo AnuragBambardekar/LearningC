@@ -20,7 +20,8 @@
 **Folder 18:** Revision 5 - Loops & Control Statements <br>
 **Folder 19:** Special Problems - Star Pyramid, Palindrome, Strong Number, Addition [Halfadder, without + operator], fibonacci series, Floyd's Triangle, Binary To decimal, Power of an Integer, Leap Year, and Perfect Number. <br>
 **Folder 20:** University HW - Concatenate 2 files [Implemented in Linux] <br>
-**Folder 21:** Generating Assembly code of C program
+**Folder 21:** Generating Assembly code of C program <br>
+**Folder 22:** Forks in Linux <br>
 
 
 
